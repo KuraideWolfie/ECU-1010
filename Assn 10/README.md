@@ -20,5 +20,5 @@ Testing: java ArraySum
 ```
 Issues:
 - Originally, I made a mistake in ArraySum.java during the summation of the array; this has been corrected prior to submission here
-Notes:
+<br/>Notes:
 - Numbers (0-9) and special characters(!, ?, etc) are not counted in CharCount; only letters are counted
