@@ -49,7 +49,7 @@ public class ArraySum {
 		
 		// Loop sum calculation
 		for(int i=0; i<array.length; i++)
-			sum += i;
+			sum += array[i];
 		
 		// Return sum
 		return sum;

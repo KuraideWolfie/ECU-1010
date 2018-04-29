@@ -1,5 +1,5 @@
 // Author:	Matthew Morgan
-// Date:	  27 September 2016
+// Date:	27 September 2016
 // Purpose:
 // This program obtains two integers and an operator from the
 // user and calculates the result dependent on the operator.
